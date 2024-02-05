@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://in.fanbook.cn/Vm3SRFeJ">
-    <img src="[https://acged.cc/svg/logo.png](https://fb-cdn.fanbook.cn/fanbook/app/files/chatroom/image/dee6cde0140d6986c6408ca6a922d2b5.jpg)" width="120" height="120" style="border-radius: 20px;" alt="NRKA">
+    <img src="https://fb-cdn.fanbook.cn/fanbook/app/files/chatroom/image/dee6cde0140d6986c6408ca6a922d2b5.jpg" width="120" height="120" style="border-radius: 20px;" alt="NRKA">
   </a>
 </p>
 
@@ -26,6 +26,7 @@ NRKA 开发的初衷初衷是为一个 Fanbook 上的【地铁大院】社区开
 
 # 版本规则
 **版本基本规则：x.y+z**
+
 `x`是大版本，在本项目进行大面积重构或者修复致命性漏洞时会迭代`x`版本。
 
 `y`是更新版本，在新增功能时迭代`y`版本，若更新重大则迭代`x`版本。
